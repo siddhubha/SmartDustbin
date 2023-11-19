@@ -10,8 +10,8 @@
 
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "realme";
-char pass[] = "e27cdziq";
+char ssid[] = "EvoFox";
+char pass[] = "**********";
 const char* webhookURL = "https://maker.ifttt.com/trigger/emailalert/with/key/d3IJRGQjQrRYC7WVevfdqI";
 
 BlynkTimer timer;
